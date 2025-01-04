@@ -1,12 +1,12 @@
 {
-  “homepage”: "https://tomjones92.github.io/react-project/",
+  "homepage": "https://tomjones92.github.io/react-project/",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    “predeploy”: “npm run build”,
-    “deploy”: “gh-pages -d dist”,
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dlist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
